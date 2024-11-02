@@ -1,9 +1,9 @@
-#Language & Speech Services by Azure Cloud
+##Language & Speech Services by Azure Cloud
 
 
 This repository contains the source code for a web application that utilizes Azure's Language and Speech services, built with Django.
 
-#Features
+##Features
 Language Analysis: Perform language detection, sentiment analysis, and more using Azure's Language services.
 
 Speech Recognition: Convert spoken input to text using Azure's Speech-to-Text API.
@@ -12,7 +12,7 @@ Text-to-Speech: Generate audio from text input, allowing for voice output.
 
 Interactive and User-Friendly: Simple and intuitive interface for easy interaction with language and speech capabilities.
 
-#Getting Started
+##Getting Started
 
 To run this application locally, follow these steps:
 
@@ -26,7 +26,7 @@ Navigate to the project directory and run the Django application.
 
 Access the application in your web browser.
 
-#Instructions to Run:
+##Instructions to Run:
 
 Install Dependencies: Run pip install -r requirements.txt to install Django and other dependencies.
 
@@ -36,10 +36,10 @@ Run the Server: Start the Django server with python manage.py runserver.
 
 Access the Application: Open your web browser and go to http://127.0.0.1:8000/ to interact with the Language & Speech services.
 
-#Contributing
+##Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
-#License
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
