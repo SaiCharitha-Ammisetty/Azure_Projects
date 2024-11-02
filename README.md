@@ -2,7 +2,7 @@ Here's a README template for your **Language & Speech Services by Azure using Dj
 
 ---
 
-# Language & Speech Services by Azure using Django
+# Language & Speech Services by Azure Cloud
 
 This repository contains the source code for a web application that utilizes Azure's Language and Speech services, built with Django.
 
