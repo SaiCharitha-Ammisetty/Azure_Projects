@@ -1,6 +1,4 @@
-Here's a README template for your **Language & Speech Services by Azure using Django** project:
 
----
 
 # Language & Speech Services by Azure Cloud
 
@@ -38,6 +36,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
---- 
-
-Let me know if you need more details on any specific section!
