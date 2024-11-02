@@ -1,13 +1,19 @@
 #Language & Speech Services by Azure Cloud
+
+
 This repository contains the source code for a web application that utilizes Azure's Language and Speech services, built with Django.
 
 #Features
 Language Analysis: Perform language detection, sentiment analysis, and more using Azure's Language services.
+
 Speech Recognition: Convert spoken input to text using Azure's Speech-to-Text API.
+
 Text-to-Speech: Generate audio from text input, allowing for voice output.
+
 Interactive and User-Friendly: Simple and intuitive interface for easy interaction with language and speech capabilities.
 
 #Getting Started
+
 To run this application locally, follow these steps:
 
 Clone this repository to your local machine.
